@@ -1,7 +1,9 @@
 PGTV OS (updated pack) 
 
 Features:-
+<br>
 👉 For Low & High end system
+<br>
 👉 Eight Kernels :[4.14.5/ 4.9.226/ 4.12.0/4.13.5/4.19.96/4.19.122/ 4.19.169/ 5.4.114 ]
 👉 Inbuilt Gearlock, Esp and 90 fps support 
 👉 Both NTFS and EXT4 support
